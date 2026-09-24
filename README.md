@@ -2,7 +2,7 @@
 
 ## Overview
 
-A comprehensive data analytics project analyzing 800,000+ transactions from a fresh produce retailer (July 2020 - December 2023) to identify profitability drivers, operational inefficiencies, and customer behavior patterns.
+A comprehensive data analytics project analyzing 800,000+ transactions from a fresh produce retailer (July 2020 -  June 2023) to identify profitability drivers, operational inefficiencies, and customer behavior patterns.
 
 **Objective:** Answer 10 strategic business questions using SQL analysis and Power BI visualization.
 
@@ -45,8 +45,8 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 ---
 ## Data Source
 
-Dataset obtained from Kaggle.
-Period: July 2020 - December 2023. About 800K transaction rows across four tables (Fact Transactions, Pricing History, Loss Rates, Products). All prices are in RMB (¥).
+Dataset: "Supermarket Sales Data" (Sales Data of Vegetables in Supermarket) by yapwh1208, obtained from Kaggle: https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data
+Period: July 2020 - June 2023 (3 years).
 
 ## Technical Stack
 
@@ -55,7 +55,7 @@ Period: July 2020 - December 2023. About 800K transaction rows across four table
 | Database | PostgreSQL | 12+ |
 | SQL IDE | DBeaver | Latest |
 | Visualization | Power BI Desktop | Latest |
-| Data Volume | 800,000+ transactions | 4 years (2020-2023) |
+| Data Volume | 800,000+ transactions | 	3 years (Jul 2020 - Jun 2023)|
 
 ---
 
@@ -108,7 +108,7 @@ Period: July 2020 - December 2023. About 800K transaction rows across four table
 ## Key Findings Summary
 
 - **Total Revenue:** ¥3.37M | **Net Profit:** ¥1.03M | **Margin:** 30.68%
-- **Total Waste Cost (Jul 2020 - Dec 2023):** ¥209.95K from 46.61K kg of spoilage
+- **Total Waste Cost (Jul 2020 -Jun 2023):** ¥209.95K from 46.61K kg of spoilage
 - **Median Loss Rate:** 9.43%
 - **Peak Sales Hour:** 10:00 AM with 120,912 transactions
 - **Return Rate:** 0.05% (461 total returns)
