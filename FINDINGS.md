@@ -6,7 +6,7 @@ Analysis of 800K+ transactions from July 2020 to June 2023 revealed three key ar
 Key Findings & Tactical Recommendations
 •	Profitability vs. Waste Exposure: The business generates ¥3.37M in revenue and delivers ¥1.03M in net profit a healthy 30.68% profit margin. However, ¥209.95K was lost due to the spoilage of 46.61K units. Analysis revealed that existing discounting strategies fail to clear aging stock which erode potential profit. Strategic interventions across pricing, waste management, and operational timing offer significant margin recovery.
 
-•	Spoilage Concentration: A targeted audit reveals that "the top 3 items account for ~23% of waste cost (¥48.1K of ¥209.95K). We recommend reducing order volumes for these 3 high loss items and reallocating capital into lower risk produce categories.
+•	Spoilage Concentration: A targeted audit reveals that the top 3 items account for ~23% of waste cost (¥48.1K of ¥209.95K). We recommend reducing order volumes for these 3 high loss items and reallocating capital into lower risk produce categories.
 
 •	Seasonal Spoilage Exposure: Absolute spoilage peaks in August with 5.28K kg which is about 70% above the March-June average and January with 4.77K kg, about 53% above but the spoilage rate stays within 9.5-10.8% of kg sold all year. The peaks follow the sale volume: more is sold in these months, so more spoils generally. Waste reduction therefore depends on which items are ordered, not on cutting volume across the board.
 
