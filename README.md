@@ -26,7 +26,7 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 - Page 2: Operations & Spoilage (Waste costs, Seasonality, Price volatility)
 - Page 3: Customer Behavior (Peak hours, Returns, Discounting patterns)
 - Progressive disclosure navigation with date filtering
-- File: `retail_analytics_dashboard.pbix`
+- File: `Retail_analysis_dashboard.pbix`
 
 #### Dashboard Preview
 
@@ -91,7 +91,7 @@ Period: July 2020 - June 2023 (3 years).
 ### **Opening the Power BI Dashboard**
 
 1. Install Power BI Desktop
-2. Open `retail_analytics_dashboard.pbix`
+2. Open `Retail_analysis_dashboard.pbix`
 3. Connect to your PostgreSQL database (if using live connection) or load CSV exports
 4. Use date filter on left sidebar to explore by year
 5. Click navigation buttons to move between pages
@@ -135,7 +135,7 @@ Full analysis in `FINDINGS.md`
 | `README.md` | Project overview and setup instructions | 4KB |
 | `FINDINGS.md` | Executive report with findings & recommendations | 8KB |
 | `sql_views.sql` | 10 SQL views answering all questions | 15KB |
-| `retail_analytics_dashboard.pbix` | Interactive 3-page Power BI report | 5-10MB |
+| `Retail_analysis_dashboard.pbix` | Interactive 3-page Power BI report | 5-10MB |
 | `screenshots/` | Screenshots of all 3 dashboard pages | ~3MB |
 
 ---
