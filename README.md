@@ -43,6 +43,10 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 ![Customer](Screenshots/page3_customer_behavior.png)
 
 ---
+## Data Source
+
+Dataset obtained from Kaggle.
+Period: July 2020 - December 2023. About 800K transaction rows across four tables (Fact Transactions, Pricing History, Loss Rates, Products). All prices are in RMB (¥).
 
 ## Technical Stack
 
