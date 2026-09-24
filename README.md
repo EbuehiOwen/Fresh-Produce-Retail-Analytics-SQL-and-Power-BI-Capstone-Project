@@ -103,10 +103,10 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 
 ## Key Findings Summary
 
-- **Total Revenue:** $3.37M | **Net Profit:** $1.03M | **Margin:** 30.68%
-- **Annual Waste Cost:** $209.95K from 46.61K spoiled units
+- **Total Revenue:** ¥3.37M | **Net Profit:** ¥1.03M | **Margin:** 30.68%
+- **Total Waste Cost (Jul 2020 - Dec 2023):** ¥209.95K from 46.61K kg of spoilage
 - **Median Loss Rate:** 9.43%
-- **Peak Sales Hour:** 16:00 (4pm) with 120,912 transactions
+- **Peak Sales Hour:** 10:00 AM with 120,912 transactions
 - **Return Rate:** 0.05% (461 total returns)
 - **Discounting Impact:** Discounted items generate 75% less profit than non-discounted
 
