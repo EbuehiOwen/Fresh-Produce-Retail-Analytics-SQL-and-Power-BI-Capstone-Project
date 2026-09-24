@@ -12,7 +12,7 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 
 ### 1. **SQL Analysis (PostgreSQL)**
 - 10 complex SQL views answering core business questions
-- Multi-table joins, CTEs, aggregations, window functions
+- Multi-table joins, CTEs, aggregations, and conditional logic (CASE)
 - Data cleaning and transformation logic
 - File: `sql_views.sql`
 
@@ -116,7 +116,7 @@ Full analysis in `FINDINGS.md`
 
 ## Skills Demonstrated
 
-✅ SQL (CTEs, JOINs, Window Functions, Aggregations, Data Cleaning)  
+✅ SQL (CTEs, JOINs, Aggregations, CASE logic, View creation) 
 ✅ PostgreSQL (Complex multi-table queries, VIEW creation)  
 ✅ Power BI (Dashboard design, DAX measures, Progressive disclosure UX)  
 ✅ Data Analysis (Business question formulation, Insight extraction)  
