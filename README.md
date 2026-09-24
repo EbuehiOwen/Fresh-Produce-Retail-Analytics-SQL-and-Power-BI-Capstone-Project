@@ -18,7 +18,7 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 
 #### Dashboard Preview
 
-![Financial](Screenshots/page1_financial_analysis.png)
+![Financial](Dashboard%20screenshots/page1_financial_analysis.png)
 
 ### 2. **Power BI Dashboard**
 - 3 page executive dashboard featuring KPI cards, trend analysis, profitability comparisons, operational monitoring, and customer behavior insights.
@@ -30,7 +30,7 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 
 #### Dashboard Preview
 
-![Operations](Screenshots/page2_operations_spoilage.png)
+![Operations](Dashboard%20screenshots/page2_operations_spoilage.png)
 
 ### 3. **Executive Findings Report**
 - Business insights and tactical recommendations
@@ -40,7 +40,7 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 
 #### Dashboard Preview
   
-![Customer](Screenshots/page3_customer_behavior.png)
+![Customer](Dashboard%20screenshots/page3_customer_behavior.png)
 
 ---
 ## Data Source
