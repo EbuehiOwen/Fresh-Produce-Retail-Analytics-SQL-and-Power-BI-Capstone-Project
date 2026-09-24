@@ -1,7 +1,7 @@
 # Fresh Produce Retail Analytics — Executive Report
 
 Executive Summary
-Analysis of 800K+ transactions from July 2020 to December 2023 revealed three key areas for profit recovery: pricing strategy, waste management, and operational efficiency.
+Analysis of 800K+ transactions from July 2020 to June 2023 revealed three key areas for profit recovery: pricing strategy, waste management, and operational efficiency.
 
 Key Findings & Tactical Recommendations
 •	Profitability vs. Waste Exposure: The business generates ¥3.37M in revenue and delivers ¥1.03M in net profit a healthy 30.68% profit margin. However, ¥209.95K was lost due to the spoilage of 46.61K units. Analysis revealed that existing discounting strategies fail to clear aging stock which erode potential profit. Strategic interventions across pricing, waste management, and operational timing offer significant margin recovery.
